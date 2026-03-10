@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Data Structure" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/LinkedList" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/LinkedList" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="BinarySearchTree.cpp" />
+		<Unit filename="BinarySearchTree.h" />
+		<Unit filename="BinaryTree.cpp" />
+		<Unit filename="BinaryTree.h" />
+		<Unit filename="CircularLinkedList.cpp" />
+		<Unit filename="CircularLinkedList.h" />
+		<Unit filename="CircularLinkedListQueue.cpp" />
+		<Unit filename="CircularLinkedListQueue.h" />
+		<Unit filename="CircularQueue.cpp" />
+		<Unit filename="CircularQueue.h" />
+		<Unit filename="DoublyLinkedList.cpp" />
+		<Unit filename="DoublyLinkedList.h" />
+		<Unit filename="LinkedListQueue.cpp" />
+		<Unit filename="LinkedListQueue.h" />
+		<Unit filename="LinkedListStack.cpp" />
+		<Unit filename="LinkedListStack.h" />
+		<Unit filename="Node.h" />
+		<Unit filename="Queue.cpp" />
+		<Unit filename="Queue.h" />
+		<Unit filename="SinglyLinkedList.cpp" />
+		<Unit filename="SinglyLinkedList.h" />
+		<Unit filename="Stack.cpp" />
+		<Unit filename="Stack.h" />
+		<Unit filename="TreeNode.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

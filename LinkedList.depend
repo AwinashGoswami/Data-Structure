@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1772216612 source:d:\development\c++\linkedlist\linkedlist.cpp
+	"LinkedList.h"
+	<iostream>
+
+1772213306 d:\development\c++\linkedlist\linkedlist.h
+
+1772984306 source:d:\development\c++\linkedlist\main.cpp
+	"Stack.h"
+	<iostream>
+
+1772292952 d:\development\c++\linkedlist\singlylinkedlist.h
+
+1772298036 source:d:\development\c++\linkedlist\singlylinkedlist.cpp
+	"SinglyLinkedList.h"
+	<iostream>
+
+1772377088 source:d:\development\c++\linkedlist\circularlinkedlist.cpp
+	"CircularLinkedList.h"
+	<iostream>
+
+1772298154 d:\development\c++\linkedlist\circularlinkedlist.h
+
+1772287173 source:d:\development\c++\linkedlist\doublylinkedlist.cpp
+	"DoublyLinkedList.h"
+	<iostream>
+
+1772225288 d:\development\c++\linkedlist\doublylinkedlist.h
+
+1772984295 d:\development\c++\linkedlist\stack.h
+
+1772984591 source:d:\development\c++\linkedlist\stack.cpp
+	"Stack.h"
+	<iostream>
+
+1773063906 source:d:\development\c++\linkedlist\linkedlistqueue.cpp
+	"LinkedListQueue.h"
+	<iostream>
+
+1773063886 d:\development\c++\linkedlist\linkedlistqueue.h
+	"Node.h"
+
+1773063806 d:\development\c++\linkedlist\node.h
+
+1773063859 source:d:\development\c++\linkedlist\linkedliststack.cpp
+	"LinkedListStack.h"
+	<iostream>
+
+1773063836 d:\development\c++\linkedlist\linkedliststack.h
+	"Node.h"
+
+1773063156 source:d:\development\c++\linkedlist\queue.cpp
+	"Queue.h"
+	<iostream>
+
+1773063131 d:\development\c++\linkedlist\queue.h
+

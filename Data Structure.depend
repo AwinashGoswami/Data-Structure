@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1772377088 source:d:\development\c++\linkedlist\circularlinkedlist.cpp
+	"CircularLinkedList.h"
+	<iostream>
+
+1772298154 d:\development\c++\linkedlist\circularlinkedlist.h
+
+1773065315 source:d:\development\c++\linkedlist\circularlinkedlistqueue.cpp
+	"CircularLinkedListQueue.h"
+	<iostream>
+
+1773065294 d:\development\c++\linkedlist\circularlinkedlistqueue.h
+	"Node.h"
+
+1773063806 d:\development\c++\linkedlist\node.h
+
+1773065240 source:d:\development\c++\linkedlist\circularqueue.cpp
+	"CircularQueue.h"
+	<iostream>
+
+1773065217 d:\development\c++\linkedlist\circularqueue.h
+
+1772287173 source:d:\development\c++\linkedlist\doublylinkedlist.cpp
+	"DoublyLinkedList.h"
+	<iostream>
+
+1772225288 d:\development\c++\linkedlist\doublylinkedlist.h
+
+1773063906 source:d:\development\c++\linkedlist\linkedlistqueue.cpp
+	"LinkedListQueue.h"
+	<iostream>
+
+1773063886 d:\development\c++\linkedlist\linkedlistqueue.h
+	"Node.h"
+
+1773063859 source:d:\development\c++\linkedlist\linkedliststack.cpp
+	"LinkedListStack.h"
+	<iostream>
+
+1773063836 d:\development\c++\linkedlist\linkedliststack.h
+	"Node.h"
+
+1773063156 source:d:\development\c++\linkedlist\queue.cpp
+	"Queue.h"
+	<iostream>
+
+1773063131 d:\development\c++\linkedlist\queue.h
+
+1772298036 source:d:\development\c++\linkedlist\singlylinkedlist.cpp
+	"SinglyLinkedList.h"
+	<iostream>
+
+1772292952 d:\development\c++\linkedlist\singlylinkedlist.h
+
+1772984591 source:d:\development\c++\linkedlist\stack.cpp
+	"Stack.h"
+	<iostream>
+
+1772984295 d:\development\c++\linkedlist\stack.h
+
+1773075916 source:d:\development\c++\linkedlist\binarysearchtree.cpp
+	"BinarySearchTree.h"
+	<iostream>
+	<climits>
+
+1773075893 d:\development\c++\linkedlist\binarysearchtree.h
+	"BinaryTree.h"
+
+1773075838 d:\development\c++\linkedlist\binarytree.h
+	"TreeNode.h"
+	<queue>
+	<stack>
+
+1773075749 d:\development\c++\linkedlist\treenode.h
+	<iostream>
+
+1773075858 source:d:\development\c++\linkedlist\binarytree.cpp
+	"BinaryTree.h"
+	<iostream>
+	<queue>
+	<stack>
+	<algorithm>
+
+1773075932 source:d:\development\c++\linkedlist\main.cpp
+	"BinarySearchTree.h"
+	<iostream>
+
+1773114143 source:d:\development\c++\linkedlist\graphmatrix.cpp
+	"GraphMatrix.h"
+	<iostream>
+	<queue>
+	<stack>
+	<iomanip>
+	<algorithm>
+
+1773114120 d:\development\c++\linkedlist\graphmatrix.h
+	"Graph.h"
+	<vector>
+	<limits>
+
+1773114096 d:\development\c++\linkedlist\graph.h
+	"Edge.h"
+	<vector>
+	<list>
+	<queue>
+	<stack>
+	<iostream>
+
+1773114071 d:\development\c++\linkedlist\edge.h
+	<iostream>
+
